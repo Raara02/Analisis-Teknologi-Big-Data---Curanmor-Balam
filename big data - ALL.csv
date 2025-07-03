@@ -1,0 +1,437 @@
+Tahun,Kecamatan,Bulan,Jenis_Kejahatan,Lokasi_Kejadian,Waktu_Kejadian,Jumlah_kasus
+2023,Sukarame,Januari,Pencurian motor,rumah,08.00-11.59,2
+2023,Kedaton,Januari,Pencurian motor,rumah,08.00-11.59,3
+2023,Teluk betung utara,Januari,Pencurian motor,rumah,08.00-11.59,2
+2023,Tanjung karang barat,Januari,Pencurian motor,rumah,08.00-11.59,1
+2023,Teluk betung selatan,Januari,Pencurian motor,rumah,08.00-11.59,1
+2023,Kedaton,Januari,Pencurian motor,rumah,12.00-14.59,3
+2023,Sukarame,Januari,Pencurian motor,rumah,12.00-14.59,2
+2023,Kedaton,Januari,Pencurian motor,rumah,15.00-17.59,2
+2023,Sukarame,Januari,Pencurian motor,rumah,15.00-17.59,1
+2023,Kedaton,Januari,Pencurian motor,rumah,18.00-21.59,4
+2023,Kedaton,Januari,Pencurian motor,rumah,04.00-04.59,2
+2023,Sukarame,Januari,Pencurian motor,rumah,04.00-04.59,1
+2023,Kemiling,Januari,Pencurian motor,rumah,04.00-04.59,1
+2023,Kedaton,Januari,Pencurian motor,rumah,05.00-07.59,2
+2023,Sukarame,Januari,Pencurian motor,rumah,05.00-07.59,1
+2023,Tanjung karang barat,Januari,Pencurian motor,rumah,05.00-07.59,1
+2023,Tanjung karang timur,Januari,Pencurian motor,rumah,05.00-07.59,1
+2023,Tanjung karang timur,Januari,Pencurian motor,perkantoran,08.00-11.59,1
+2023,Sukarame,Januari,Pencurian motor,perkantoran,12.00-14.59,1
+2023,Tanjung karang timur,Januari,Pencurian motor,tempat parkir,12.00-14.59,1
+2023,Kedaton,Januari,Pencurian motor,tempat parkir,12.00-14.59,1
+2023,Kedaton,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2023,Teluk betung selatan,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2023,Tanjung karang barat,Januari,Pencurian motor,tempat parkir,18.00-21.59,1
+2023,Kedaton,Januari,Pencurian motor,tempat parkir,18.00-21.59,2
+2023,Sukarame,Januari,Pencurian motor,perkantoran,04.00-04.59,1
+2023,Kedaton,Januari,Pencurian motor,perkantoran,05.00-07.59,1
+2023,Sukarame,Februari,Pencurian motor,rumah,12.00-14.59,1
+2023,Teluk betung utara,Februari,Pencurian motor,rumah,12.00-14.59,1
+2023,Sukarame,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,12.59-14.59,1
+2023,Kedaton,Februari,Pencurian motor,tempat parkir,12.59-14.59,1
+2023,Teluk betung selatan,Februari,Pencurian motor,perkantoran,08.00-11.59,1
+2023,Tanjung karang barat,Februari,Pencurian motor,perkantoran,08.00-11.59,1
+2023,Sukarame,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2023,Teluk betung utara,Februari,Pencurian motor,tempat parkir,08.00-11.59,1
+2023,Teluk betung selatan,Februari,Pencurian motor,pasar,08.00-11.59,1
+2023,Sukarame,Februari,Pencurian motor,rumah,15.00-17.59,1
+2023,Tanjung karang barat,Februari,Pencurian motor,rumah,15.00-17.59,1
+2023,Teluk betung utara,Februari,Pencurian motor,tempat parkir,18.00-21.59,1
+2023,Sukarame,Februari,Pencurian motor,rumah,04.00-04-59,2
+2023,Sukarame,Februari,Pencurian motor,perkantoran,04.00-04.59,1
+2023,Kedaton,Maret,Pencurian motor,rumah,15.00-17.59,2
+2023,Sukarame,Maret,Pencurian motor,rumah,15.00-17.59,1
+2023,Teluk betung utara,Maret,Pencurian motor,rumah,15.00-17.59,1
+2023,Sukarame,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,2
+2023,Kedaton,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2023,Kedaton,Maret,Pencurian motor,rumah,12.00-14.59,1
+2023,Teluk betung utara,Maret,Pencurian motor,tempat parkir,12.00-14.59,1
+2023,Sukarame,Maret,Pencurian motor,rumah,04.00-04.59,1
+2023,Kemiling,Maret,Pencurian motor,rumah,04.00-04.59,1
+2023,Kedaton,Maret,Pencurian motor,rumah,05.00-07.59,2
+2023,Kemiling,Maret,Pencurian motor,rumah,05.00-07.59,1
+2023,Tanjung karang timur,Maret,Pencurian motor,rumah,22.00-23.59,1
+2023,Sukarame,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,22.00-23.59,1
+2023,Teluk betung selatan,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,22.00-23.59,1
+2024,Kedaton,Januari,Pencurian motor,tempat parkir,08.00-11.59,3
+2024,Sukarame,Januari,Pencurian motor,tempat parkir,08.00-11.59,1
+2024,Teluk Betung Utara,Januari,Pencurian motor,rumah,08.00-11.59,1
+2024,Sukarame,Januari,Pencurian motor,rumah,18.00-21.59,4
+2024,Sukarame,Januari,Pencurian motor,rumah,15.00-17.59,1
+2024,Teluk betung timur,Januari,Pencurian motor,perkantoran,15.00-17.59,1
+2024,Teluk betung utara,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2024,Kedaton,Januari,Pencurian motor,tempat parkir,15.00-17.59,1
+2024,Sukarame,Januari,Pencurian motor,rumah,12.00-14.59,2
+2024,Sukarame,Januari,Pencurian motor,rumah,04.00-04.59,1
+2024,Sukarame,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,04.00-04.59,1
+2024,Kedaton,Januari,Pencurian motor,rumah,05.00-07.59,1
+2024,Sukarame,Januari,Pencurian motor,rumah,05.00-07.59,1
+2024,Sukarame,Januari,Pencurian motor,rumah,22.00-23.59,1
+2024,Sukarame,Februari,Pencurian motor,perkantoran,08.00-11.59,1
+2024,Sukarame,Februari,Pencurian motor,rumah,18.00-21.59,1
+2024,Tanjung karang barat,Februari,Pencurian motor,rumah,18.00-21.59,1
+2024,Teluk betung utara,Februari,Pencurian motor,rumah,18.00-21.59,1
+2024,Sukarame,Februari,Pencurian motor,rumah,12.00-14.59,2
+2024,Tanjung karang barat,Februari,Pencurian motor,rumah,04.00-04.59,2
+2024,Panjang,Februari,Pencurian motor,rumah,04.00-04.59,1
+2024,Sukarame,Februari,Pencurian motor,rumah,04.00-04.59,1
+2024,Tanjung karang pusat,Februari,Pencurian motor,tempat parkir,04.00-04.59,1
+2024,Kedaton,Februari,Pencurian motor,rumah,05.00-07.59,1
+2024,Kemiling,Februari,Pencurian motor,tempat parkir,05.00-07.59,1
+2024,Kedaton,Februari,Pencurian motor,tempat parkir,05.00-07.59,1
+2024,Teluk betung selatan,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.59,1
+2024,Tanjung karang pusat,Februari,Pencurian motor,tempat parkir,22.00-23.59,1
+2024,Tanjung karang barat,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2024,Tanjung karang barat,Maret,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2024,Sukarame,Maret,Pencurian motor,rumah,05.00-07.59,1
+2024,Teluk betung timur,Maret,Pencurian motor,rumah,22.00-23.59,1
+2025,Sukarame,Januari,Pencurian motor,rumah,08.00-11.59,3
+2025,Tanjung karang timur,Januari,Pencurian motor,rumah,08.00-11.60,1
+2025,Teluk betung utara,Januari,Pencurian motor,rumah,08.00-11.62,2
+2025,Teluk betung selatan,Januari,Pencurian motor,perkantoran,08.00-11.62,1
+2025,Tanjung karang barat,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.62,1
+2025,Teluk betung utara,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.62,1
+2025,Kemiling,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.62,2
+2025,Teluk betung timur,Januari,Pencurian motor,rumah,18.00-21.59,4
+2025,Teluk betung selatan,Januari,Pencurian motor,rumah,18.00-21.59,1
+2025,Tanjung karang barat,Januari,Pencurian motor,tempat parkir,18.00-21.59,1
+2025,Teluk betung timur,Januari,Pencurian motor,tempat parkir,18.00-21.59,1
+2025,Tanjung karang barat,Januari,Pencurian motor,perkantoran,12.00-14.59,1
+2025,Tanjung karang timur,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,12.00-14.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,12.00-14.59,1
+2025,Kedaton,Januari,Pencurian motor,tempat parkir,12.00-14.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,tempat parkir,12.00-14.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,tempat parkir,12.00-14.59,1
+2025,Tanjung senang,Januari,Pencurian motor,pasar,12.00-14.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,rumah,15.00-17.59,1
+2025,Teluk betung utara,Januari,Pencurian motor,rumah,15.00-17.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,rumah,15.00-17.59,1
+2025,Tanjung karang timur,Januari,Pencurian motor,rumah,15.00-17.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,perkantoran,15.00-17.59,1
+2025,Panjang,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,tempat parkir,15.00-17.59,1
+2025,Tanjung senang,Januari,Pencurian motor,tempat parkir,15.00-17.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,rumah,04.00-04.59,3
+2025,Sukarame,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Tanjung karang barat,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Tanjung karang timur,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Teluk betung timur,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Kedaton,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Sukabumi,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Tanjung senang,Januari,Pencurian motor,rumah,04.00-04.59,1
+2025,Teluk betung selatan,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,04.00-04.59,1
+2025,Panjang,Januari,Pencurian motor,rumah,05.00-07.59,1
+2025,Teluk betung timur,Januari,Pencurian motor,rumah,05.00-07.59,1
+2025,Teluk betung utara,Januari,Pencurian motor,rumah,05.00-07.59,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,rumah,05.00-07.59,1
+2025,Kemiling,Januari,Pencurian motor,rumah,05.00-07.60,1
+2025,Tanjung karang timur,Januari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.60,1
+2025,Tanjung karang timur,Januari,Pencurian motor,pasar,05.00-07.60,1
+2025,Tanjung karang pusat,Januari,Pencurian motor,tempat parkir,22.00-23.59,1
+2023,Teluk Betung Utara,April,Pencurian motor,rumah,12.00-14.59,1
+2023,Kemiling,April,Pencurian motor,rumah,12.00-14.59,1
+2023,Sukarame,April,Pencurian motor,rumah,08.00-11.59,1
+2023,Kedaton,April,Pencurian motor,rumah,04.00-04.59,1
+2023,Sukarame,April,Pencurian motor,rumah,05.00-07.59,1
+2023,Kemiling,April,Pencurian motor,Perkantoran,12.00-14.59,1
+2023,Kemiling,April,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2023,Kemiling,April,Pencurian motor,pertokoan/mal/pusat perbelanjaan,22.00-23.59,1
+2023,Teluk Betung Utara,April,Pencurian motor,Tempat Parkir,04.00-04.59,1
+2023,Sukarame,Mei,Pencurian motor,rumah,08.00-11.59,1
+2023,Sukarame,Mei,Pencurian motor,rumah,12.00-14.59,1
+2023,Kemiling,Mei,Pencurian motor,rumah,12.00-14.59,1
+2023,Kedaton,Mei,Pencurian motor,rumah,15.00-17.59,1
+2023,Kemiling,Mei,Pencurian motor,rumah,18.00-21.59,2
+2023,Teluk Betung Selatan,Mei,Pencurian motor,rumah,04.00-04.59,1
+2023,Kemiling,Mei,Pencurian motor,rumah,04.00-04.59,1
+2023,Sukarame,Mei,Pencurian motor,rumah,04.00-04.59,1
+2023,Tanjung Karang Barat,Mei,Pencurian motor,rumah,05.00-07.59,1
+2023,Teluk Betung Utara,Mei,Pencurian motor,rumah,05.00-07.59,1
+2023,Tanjung Karang Timur ,Mei,Pencurian motor,perkantoran,08.00-11.59,1
+2023,Kemiling,Mei,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,3
+2023,Sukarame,Mei,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2023,Tanjung Karang Barat,Mei,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2023,Kedaton,Mei,Pencurian motor,Tempat Parkir,08.00-11.59,1
+2023,Teluk Betung Timur,Mei,Pencurian motor,Pasar,15.00-17.59,1
+2023,Kemiling,Juni,Pencurian motor,rumah,05.00-07.59,1
+2023,Kemiling,Juni,Pencurian motor,rumah,15.00-17.59,1
+2023,Sukarame ,Juni,Pencurian motor,rumah,08.00-11.59,1
+2023,Sukarame,Juni,Pencurian motor,rumah,15.00-17.59,1
+2023,Sukarame,Juni,Pencurian motor,rumah,12.00-14.59,2
+2023,Kemiling,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,12.00-14.59,1
+2023,Kemiling,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,2
+2023,Kemiling,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2023,Kemiling,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.59,1
+2023,Sukarame,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.59,1
+2023,Sukarame,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2024,Tanjung Karang Barat,April,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Selatan,April,Pencurian motor,Rumah,18.00-21.59,1
+2024,Tanjung Karang Barat,April,Pencurian motor,Rumah,04.00-04.59,1
+2024,Panjang,April,Pencurian motor,Rumah,04.00-04.59,1
+2024,Kedaton,April,Pencurian motor,Rumah,15.00-17.59,1
+2024,Kedaton,April,Pencurian motor,Rumah,12.00-14.59,1
+2024,Sukarame,April,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,April,Pencurian motor,perkantoran,08.00-11.59,1
+2024,Tanjung Karang Barat,April,Pencurian motor,perkantoran,18.00-21.59,1
+2024,Tanjung Karang Barat,April,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,2
+2024,Tanjung Karang Barat,April,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,2
+2024,Tanjung Karang Barat,April,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2024,Sukarame,Mei,Pencurian motor,Rumah,12.00-14.59,1
+2024,Sukarame,Mei,Pencurian motor,Rumah,18.00-21.59,1
+2024,Sukarame,Mei,Pencurian motor,Rumah,15.00-17.59,3
+2024,Teluk Betung Utara,Mei,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Selatan,Mei,Pencurian motor,Rumah,18.00-21.59,3
+2024,Panjang,Mei,Pencurian motor,Rumah,18.00-21.59,1
+2024,Panjang,Mei,Pencurian motor,Rumah,04.00-04.59,1
+2024,Sukarame,Mei,Pencurian motor,Rumah,04.00-04.59,1
+2024,Teluk Betung Timur,Mei,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Selatan,Mei,Pencurian motor,Rumah,08.00-11.59,1
+2024,Teluk Betung Timur,Mei,Pencurian motor,Rumah,12.00-14.59,2
+2024,Kedaton,Mei,Pencurian motor,Rumah,15.00-17.59,1
+2024,Teluk Betung Selatan,Mei,Pencurian motor,perkantoran,15.00-17.59,1
+2024,Tanjung Karang Timur ,Mei,Pencurian motor,perkantoran,08.00-11.59,1
+2024,Tanjung Karang Timur ,Mei,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.59,1
+2024,Tanjung Karang Barat,Mei,Pencurian motor,Tempat Parkir,08.00-11.59,1
+2024,Tanjung Karang Barat,Mei,Pencurian motor,Tempat Parkir,04.00-04.59,1
+2024,Tanjung Karang Barat,Mei,Pencurian motor,Pasar,08.00-11.59,1
+2024,Teluk Betung Timur,Juni,Pencurian motor,Rumah,04.00-04.59,1
+2024,Teluk Betung Selatan,Juni,Pencurian motor,Rumah,04.00-04.59,2
+2024,Teluk Betung Selatan,Juni,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Selatan,Juni,Pencurian motor,Rumah,22.00-23.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,Rumah,05.00-07.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,Juni,Pencurian motor,perkantoran,05.00-07.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,perkantoran,18.00-21.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2024,Tanjung Karang Timur ,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2024,Tanjung Karang Timur ,Juni,Pencurian motor,pertokoan/mal/pusat perbelanjaan,22.00-23.59,1
+2024,Teluk Betung Timur,Juni,Pencurian motor,Tempat Parkir,15.00-17.59,1
+2024,Tanjung Karang Barat,Juni,Pencurian motor,Tempat Parkir,05.00-07.59,2
+2024,Tanjung Karang Barat,Juni,Pencurian motor,Pasar,05.00-07.59,1
+2025,Teluk Betung Timur,Februari,Pencurian motor,Rumah,18.00-21.59,1
+2025,Teluk Betung Timur,Februari,Pencurian motor,Rumah,05.00-07.59,1
+2025,Tanjung Karang Barat,Februari,Pencurian motor,Rumah,18.00-21.59,2
+2025,Tanjung Karang Barat,Februari,Pencurian motor,Rumah,04.00-04.59,1
+2025,Tanjung Karang Barat,Februari,Pencurian motor,Rumah,08.00-11.59,1
+2025,Teluk Betung Timur,Februari,Pencurian motor,Rumah,04.00-04.59,1
+2025,Teluk Betung Timur,Februari,Pencurian motor,Rumah,04.00-04.59,1
+2025,Tanjung Karang Timur ,Februari,Pencurian motor,Rumah,04.00-04.59,1
+2025,Tanjung Karang Timur ,Februari,Pencurian motor,Rumah,05.00-07.59,4
+2025,Teluk Betung Selatan,Februari,Pencurian motor,Rumah,18.00-21.59,1
+2025,Teluk Betung Selatan,Februari,Pencurian motor,Rumah,04.00-04.59,1
+2025,Kedaton,Februari,Pencurian motor,Rumah,05.00-07.59,1
+2025,Tanjung Senang,Februari,Pencurian motor,Rumah,04.00-04.59,4
+2025,Teluk Betung Selatan,Februari,Pencurian motor,Jalan umum,15.00-17.59,1
+2025,Teluk Betung Selatan,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2025,Tanjung Karang Timur ,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2025,Tanjung Karang Timur ,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,05.00-07.59,1
+2025,Tanjung Karang Barat,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,08.00-11.59,1
+2025,Tanjung Karang Barat,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,18.00-21.59,1
+2025,Tanjung Karang Barat,Februari,Pencurian motor,pertokoan/mal/pusat perbelanjaan,15.00-17.59,1
+2025,Teluk Betung Utara,Februari,Pencurian motor,perkantoran,15.00-17.59,1
+2025,Teluk Betung Selatan,Februari,Pencurian motor,Tempat Parkir,04.00-04.59,1
+2023,Sukarame,Oktober,Pencurian Motor,Rumah,08.00-11.59,2
+2023,Sukarame,Oktober,Pencurian Motor,Rumah,15.00-17.59,1
+2023,Sukarame,Oktober,Pencurian Motor,Rumah,12.00-14.59,1
+2023,Kedaton,Oktober,Pencurian Motor,Rumah,04.00-04.59,1
+2023,Sukarame,Oktober,Pencurian Motor,Rumah,04.00-04.59,1
+2023,Tanjung Karang Timur,Oktober,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Teluk Betung Selatan,Oktober,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Teluk Betung Selatan,Oktober,Pencurian Motor,Perkantoran,08.00-11.59,2
+2023,Sukarame,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11-59,1
+2023,Teluk Betung Utara,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11-59,1
+2023,Teluk Betung Utara,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,1
+2023,Sukarame,November,Pencurian Motor,Rumah,08.00-11.59,1
+2023,Sukarame,November,Pencurian Motor,Rumah,18.00-21.59,2
+2023,Teluk Betung Utara,November,Pencurian Motor,Rumah,18.00-21.59,1
+2023,Sukarame,November,Pencurian Motor,Rumah,04.00-04.59,3
+2023,Sukarame,November,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Sukarame,November,Pencurian Motor,Jalan Umum,18.00-21.59,1
+2023,Teluk Betung Timur,November,Pencurian Motor,Jalan Umum,18.00-21.59,1
+2023,Kedaton,Desember,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Sukarame,Desember,Pencurian Motor,Rumah,08.00-11.59,1
+2023,Teluk Betung Selatan,Desember,Pencurian Motor,Jalan Umum,08.00-11.59,1
+2023,Kedaton,Desember,Pencurian Motor,Rumah,12.00-14.59,1
+2023,Teluk Betung Selatan,Desember,Pencurian Motor,Jalan Umum,12.00-14.59,1
+2023,Sukarame,Desember,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,15.00-17.59,1
+2023,Teluk Betung Selatan,Desember,Pencurian Motor,Rumah,18.00-21.59,1
+2023,Teluk Betung Selatan,Desember,Pencurian Motor,Rumah,22.00-23.59,1
+2024,Teluk Betung Timur,Oktober,Pencurian Motor,Rumah,04.00-04.59,2
+2024,Kedaton,Oktober,Pencurian Motor,,,1
+2024,Panjang,Oktober,Pencurian Motor,,,1
+2024,Sukarame,Oktober,Pencurian Motor,Rumah,05.00-07.59,1
+2024,Kedaton,Oktober,Pencurian Motor,,,1
+2024,Teluk Betung Selatan,Oktober,Pencurian Motor,,,1
+2024,Teluk Betung Timur,Oktober,Pencurian Motor,Tempat Parkir,,1
+2024,Tanjung Karang Timur,Oktober,Pencurian Motor,Perkantoran,08.00-11.59,2
+2024,Teluk Betung Timur,Oktober,Pencurian Motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Barat,Oktober,Pencurian Motor,Perkantoran,,1
+2024,Tanjung Karang Barat,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,,1
+2024,Tanjung Karang Barat,Oktober,Pencurian Motor,Rumah,15.00-17.59,1
+2024,Tanjung Karang Barat,Oktober,Pencurian Motor,Jalan Umum,,1
+2024,Tanjung Karang Timur,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,,1
+2024,Kedaton,Oktober,Pencurian Motor,Tempat Parkir,,1
+2024,Tanjung Karang Barat,Oktober,Pencurian Motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,Oktober,Pencurian Motor,Rumah,,1
+2024,Teluk Betung Utara,Oktober,Pencurian Motor,Rumah,,1
+2024,Sukarame,Oktober,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,,1
+2024,Tanjung Karang Timur,Oktober,Pencurian Motor,Perkantoran,,1
+2024,Tanjung Karang Tiimur,November,Pencurian Motor,Tempat Parkir,04.00-04.59,1
+2024,Teluk Betung Selatan,November,Pencurian Motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Timur,November,Pencurian Motor,Rumah,,1
+2024,Teluk Betung Timur,November,Pencurian Motor,Tempat Parkir,08.00-11.59,1
+2024,Sukarame,November,Pencurian Motor,Rumah,12.00-14.59,1
+2024,Teluk Betung Selatan,November,Pencurian Motor,Rumah,15.00-17.59,1
+2024,Panjang,November,Pencurian Motor,Perkantoran,,1
+2024,Teluk Betung Selatan,Desember,Pencurian Motor,Rumah,04.00-04.59,2
+2024,Tanjung Karang Barat,Desember,Pencurian Motor,Rumah,,1
+2024,Teluk Betung Timur,Desember,Pencurian Motor,Rumah,,1
+2024,Teluk Betung Timur,Desember,Pencurian Motor,Jalan Umum,05.00-07.59,1
+2024,Tanjung Karang Barat,Desember,Pencurian Motor,Rumah,,2
+2024,Tanjung Karang Timur,Desember,Pencurian Motor,Rumah,,1
+2024,Teluk Betung Timur,Desember,Pencurian Motor,Rumah,,1
+2024,Kedaton,Desember,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,12.00-14.59,1
+2024,Tanjung karang Timur,Desember,Pencurian Motor,Tempat Parkir,15.00-17.59,1
+2024,Tanjung Karang Barat,Desember,Pencurian Motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,Desember,Pencurian Motor,Rumah,,1
+2024,Tanjung Karang Barat,Desember,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,,2
+2024,Teluk Betung Utara,Desember,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,,1
+2024,Teluk Betung Timur,Desember,Pencurian Motor,Pasar,,1
+2024,Teluk Betung Selatan,Desember,Pencurian Motor,Rumah,22.00-23.59,1
+2023,Sukarame,Juli,Pencurian Motor,Rumah,08.00-11.59,4
+2023,Sukarame,Juli,Pencurian Motor,Rumah,18.00-21.59,8
+2023,Teluk Betung Selatan,Juli,Pencurian Motor,Rumah,18.00-21.59,1
+2023,Sukarame,Juli,Pencurian Motor,Rumah,12.00-14.59,2
+2023,Sukarame,Juli,Pencurian Motor,Rumah,15.00-17.59,4
+2023,Sukarame,Juli,Pencurian Motor,Rumah,04.00-04.59,2
+2023,Sukarame,Juli,Pencurian Motor,Rumah,22.00-23.59,3
+2023,Sukarame,Juli,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Sukarame,Juli,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,4
+2023,Sukarame,Juli,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,4
+2023,Sukarame,Juli,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,22.00-23.59,1
+2023,Sukarame,Juli,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2023,Teluk Betung Selatan,Juli,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2023,Sukarame,Juli,Pencurian Motor,Perkantoran,08.00-11.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Rumah,08.00-11.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Rumah,18.00-21.59,3
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Rumah,18.00-21.59,1
+2023,Teluk Betung Timur,Agustus,Pencurian Motor,Rumah,18.00-21.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Rumah,15.00-17.59,2
+2023,Sukarame,Agustus,Pencurian Motor,Rumah,12.00-14.59,2
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Rumah,12.00-14.59,1
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Rumah,04.00-04.59,1
+2023,Kedaton,Agustus,Pencurian Motor,Rumah,04.00-04.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Teluk Betung Utara,Agustus,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Tanjung Karang Timur,Agustus,Pencurian Motor,Jalanan Umum,08.00-11.59,1
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Perkantoran,15.00-17.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Perkantoran,04.00-04.59,1
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Perkantoran,05.00-07.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11.59,2
+2023,Teluk Betung Selatan,Agustus,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,15.00-17.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,04.00-04.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,3
+2023,Sukarame,Agustus,Pencurian Motor,Tempat Parkir,08.00-11.59,1
+2023,Sukarame,Agustus,Pencurian Motor,Tempat Parkir,15.00-17.59,1
+2023,Sukarame,September,Pencurian Motor,Rumah,08.00-11.59,2
+2023,Tanjung Karang Barat,September,Pencurian Motor,Rumah,08.00-11.59,1
+2023,Sukarame,September,Pencurian Motor,Rumah,18.00-21.59,4
+2023,Sukarame,September,Pencurian Motor,Rumah,04.00-04.59,1
+2023,Sukarame,September,Pencurian Motor,Rumah,22.00-23.59,1
+2023,Sukarame,September,Pencurian Motor,Rumah,05.00-07.59,1
+2023,Tanjung Karang Barat,September,Pencurian Motor,Perkantoran,15.00-17.59,1
+2023,Kedaton,September,Pencurian Motor,Tempat Parkir,22.00-23.59,1
+2024,Teluk Betung Timur,Juli,Pencurian motor,Rumah,08.00-11.59,2
+2024,Sukarame,Juli,Pencurian motor,Rumah,08.00-11.59,1
+2024,Tanjung Karang Timur,Juli,Pencurian motor,Rumah,08.00-11.59,1
+2024,Teluk Betung Timur,Juli,Pencurian motor,Rumah,12.00-14.59,2
+2024,Teluk Betung Selatan,Juli,Pencurian motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Barat,Juli,Pencurian motor,Rumah,18.00-21.59,2
+2024,Tanjung Karang Timur,Juli,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Selatan,Juli,Pencurian motor,Rumah,04.00-04.59,1
+2024,Teluk Betung Selatan,Juli,Pencurian motor,Rumah,05.00-07.59,2
+2024,Kedaton,Juli,Pencurian motor,Rumah,05.00-07.59,1
+2024,Tanjung Karang Timur,Juli,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,2
+2024,Tanjumg Karang Barat,Juli,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Rumah,08.00-11.59,2
+2024,Kedaton,Agustus,Pencurian motor,Rumah,08.00-11.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Rumah,08.00-11.59,1
+2024,Panjang,Agustus,Pencurian motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Selatan,Agustus,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,Agustus,Pencurian motor,Rumah,18.00-21.59,1
+2024,Kedaton,Agustus,Pencurian motor,Rumah,18.00-21.59,1
+2024,Kedaton,Agustus,Pencurian motor,Rumah,15.00-17.59,1
+2024,Sukarame,Agustus,Pencurian motor,Rumah,15.00-17.59,1
+2024,Teluk Betung Timur,Agustus,Pencurian motor,Rumah,15.00-17.59,1
+2024,Teluk Betung Selatan,Agustus,Pencurian motor,Rumah,04.00-04.59,2
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Rumah,04.00-04.59,1
+2024,Teluk Betung Timur,Agustus,Pencurian motor,Rumah,04.00-04.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Selatan,Agustus,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk BetungTimur,Agustus,Pencurian motor,Rumah,05.00-07.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Perkantoran,08.00-11.59,1
+2024,Teluk Betung Timur,Agustus,Pencurian motor,Perkantoran,15.00-17.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11.59,2
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,1
+2024,Sukarame,Agustus,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Jalanan Umum,05.00-07.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Jalanan Umum,22.00-23.59,1
+2024,Tanjung Karang Timur,Agustus,Pencurian motor,Tempat Parkir,08.00-11.59,1
+2024,Tanjung Karang Barat,Agustus,Pencurian motor,Tempat Parkir,18.00-21.59,1
+2024,Tanjung Karang Barat,September,Pencurian motor,Rumah,08.00-11.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Rumah,08.00-11.59,1
+2024,Sukarame,September,Pencurian motor,Rumah,15.00-17.59,1
+2024,Tanjung Karang Barat,September,Pencurian motor,Rumah,15.00-17.59,1
+2024,Teluk Betung Selatan,September,Pencurian motor,Rumah,15.00-17.59,1
+2024,Teluk Betung Timur,September,Pencurian motor,Rumah,15.00-17.59,1
+2024,Sukarame,September,Pencurian motor,Rumah,12.00-14.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Rumah,18.00-21.59,3
+2024,Sukarame,September,Pencurian motor,Rumah,18.00-21.59,1
+2024,Tanjung Karang Barat,September,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,September,Pencurian motor,Rumah,18.00-21.59,1
+2024,Teluk Betung Timur,September,Pencurian motor,Rumah,04.00-04.59,3
+2024,Tanjung Karang Timur,September,Pencurian motor,Rumah,04.00-04.59,2
+2024,Teluk Betung Selatan,September,Pencurian motor,Rumah,04.00-04.59,1
+2024,Tanjung Karang Barat,September,Pencurian motor,Rumah,05.00-07.59,2
+2024,Sukarame,September,Pencurian motor,Rumah,05.00-07.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Selatan,September,Pencurian motor,Rumah,05.00-07.59,1
+2024,Teluk Betung Timur,September,Pencurian motor,Rumah,05.00-07.59,1
+2024,Tanjung Karang Barat,September,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,04.00-04.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2024,Tanjung Karang Timur,September,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,22.00-23.59,1
+2024,Teluk Betung Timur,September,Pencurian motor,Pasar,08.00-11.59,1
+2024,Kedaton,September,Pencurian motor,Tempat Parkir,05.00-07.59,1
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Rumah,18.00-21.59,2
+2025,Kedaton,Maret,Pencurian motor,Rumah,18.00-21.59,1
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Rumah,08.00-11.59,1
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Rumah,15.00-17.59,1
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Rumah,12.00-14.59,1
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Rumah,05.00-07.59,2
+2025,Tanjung Karang Timur,Maret,Pencurian motor,Rumah,05.00-07.59,2
+2025,Tanjung Karang Timur,Maret,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,4
+2025,Tanjung Karang Barat,Maret,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,18.00-21.59,1
+2025,Tanjung Karang Timur,Maret,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,08.00-11.59,1
+2025,Tanjung Karang Timur,Maret,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,05.00-07.59,1
+2025,Teluk Betung Selatan,Maret,Pencurian motor,Perkantoran,22.00-23.59,1
+2025,Tanjung Karang Barat,April,Pencurian motor,Rumah,08.00-11.59,1
+2025,Tanjung Karang Timur,April,Pencurian motor,Rumah,04.00-04.59,1
+2025,Teluk Betung Timur,April,Pencurian motor,Rumah,04.00-04.59,1
+2025,Tanjung karang barat,April,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,22.00-23.59,1
+2025,Tanjung Karang Timur,April,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,15.00-17.59,1
+2025,Kedaton,April,Pencurian motor,Rumah,05.00-07.59,1
+2025,Teluk Betung Timur,April,Pencurian motor,Rumah,05.00-07.59,1
+2025,Teluk Betung Selatan,April,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,15.00-17.59,1
+2025,Teluk Betung Timur,April,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,15.00-17.59,1
+2025,Tanjung Karang Timur,April,Pencurian motor,Pertokoan/Mal/Pusat Perbelanjaan,12.00-14.59,1
+2025,Teluk Betung Selatan,April,Pencurian motor,Pasar,05.00-07.59,1
